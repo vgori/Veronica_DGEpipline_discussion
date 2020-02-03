@@ -1,0 +1,10 @@
+{
+    "salmon_version": "0.14.1",
+    "noErrorModel": [],
+    "threads": "2",
+    "targets": "/home/veronika/pipeline-transcriptome-de/data/Homo_sapiens.GRCh38.cdna.all.fa",
+    "libType": "U",
+    "alignments": "alignments/C1.bam",
+    "output": "counts/C1_salmon",
+    "auxDir": "aux_info"
+}

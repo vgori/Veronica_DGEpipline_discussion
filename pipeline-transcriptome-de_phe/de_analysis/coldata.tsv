@@ -1,0 +1,7 @@
+sample	condition	type
+C1	untreated	single-read
+C2	untreated	single-read
+C3	untreated	single-read
+IR1	treated	single-read
+IR2	treated	single-read
+IR3	treated	single-read

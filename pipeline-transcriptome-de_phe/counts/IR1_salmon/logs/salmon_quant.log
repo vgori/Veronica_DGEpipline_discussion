@@ -1,0 +1,27 @@
+[2020-02-01 14:59:52.801] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2020-02-01 14:59:52.802] [jointLog] [info] numQuantThreads = 2
+[2020-02-01 14:59:58.885] [jointLog] [info] replaced 83 non-ACGT nucleotides with random nucleotides
+[2020-02-01 14:59:59.223] [fileLog] [info] quantification processed 0 fragments so far
+
+[2020-02-01 14:59:59.236] [jointLog] [info] 
+
+
+Completed first pass through the alignment file.
+Total # of mapped reads : 3000
+# of uniquely mapped reads : 742
+# ambiguously mapped reads : 2258
+
+
+
+[2020-02-01 14:59:59.242] [jointLog] [info] Computed 1,842 rich equivalence classes for further processing
+[2020-02-01 14:59:59.242] [jointLog] [info] Counted 3,000 total reads in the equivalence classes 
+[2020-02-01 14:59:59.256] [jointLog] [warning] Only 3000 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2020-02-01 14:59:59.257] [jointLog] [info] starting optimizer
+[2020-02-01 14:59:59.312] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2020-02-01 14:59:59.325] [jointLog] [info] iteration = 0 | max rel diff. = 0.999606
+[2020-02-01 15:00:00.390] [jointLog] [info] iteration = 100 | max rel diff. = 0.893095
+[2020-02-01 15:00:00.417] [jointLog] [info] iteration = 103 | max rel diff. = 0.00817243
+[2020-02-01 15:00:00.423] [jointLog] [info] finished optimizer
+[2020-02-01 15:00:00.423] [jointLog] [info] writing output
